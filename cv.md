@@ -65,4 +65,17 @@ function domainName(url){
  This is the Foxtrot grout of companies in which I was involved in the installation, configuration and maintenance of security systems.  
  
  ------------------------------------------------
+ ## Education  
+
+ Electrical Engineer 
+ Faculty of Radio Electronics(2002-2007) 
+ Kharkiv National University of Radio Electronics
+ 
+ ------------------------------------------------
+  ## English  
+ 
+ A0 - reading with a dictionary  
+ 
+ ------------------------------------------------
+ 
  
