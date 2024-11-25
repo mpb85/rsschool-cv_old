@@ -54,8 +54,10 @@ function domainName(url){
  Electrical Engineer 
  Faculty of Radio Electronics(2002-2007) 
  Kharkiv National University of Radio Electronics
- 
+ RS SHOOL courser
  ------------------------------------------------
-  ## English  
- 
- A0 - reading with a dictionary     
+   ## Language
+ English 
+ A0 - reading with a dictionary 
+ Ukraine
+    fluent language
